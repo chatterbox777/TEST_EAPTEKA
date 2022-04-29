@@ -1,0 +1,4 @@
+export const START_ACTION = 'START_ACTION'
+export const STOP_ACTION = 'STOP_ACTION'
+export const START_REQUEST = 'START_REQUEST'
+export const STOP_REQUEST = 'STOP_REQUEST'
